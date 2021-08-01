@@ -1,5 +1,5 @@
 
-base_folder = "C://projects//DATA//downloaders//NSE_CORPORATE_ANNOUNCEMENTS//python"
+base_folder = "C://projects//DATA//downloaders//SENTIMENT//python"
 import warnings
 warnings.filterwarnings('ignore')
 
